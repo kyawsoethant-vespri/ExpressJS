@@ -1,5 +1,5 @@
 {
-  "name": "11tut",
+  "name": "rolespermissions",
   "version": "1.0.0",
   "description": "Express tutorial",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Kyaw Soe Thant",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
